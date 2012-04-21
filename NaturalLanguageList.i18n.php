@@ -237,10 +237,11 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Naohiro19
+ * @author Shirayuki
  * @author 青子守歌
  */
 $messages['ja'] = array(
-	'nll-desc' => 'ナチュラル言語一覧の簡単な形式',
+	'nll-desc' => '自然言語一覧の簡単な整形',
 	'nll-lastseparator' => '&#32;と&#32;',
 );
 
