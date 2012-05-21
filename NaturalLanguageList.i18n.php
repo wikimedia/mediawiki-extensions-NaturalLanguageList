@@ -232,6 +232,7 @@ $messages['id'] = array(
  * @author Beta16
  */
 $messages['it'] = array(
+	'nll-desc' => 'Formattazione semplice di liste in linguaggio naturale',
 	'nll-lastseparator' => '&#32;e&#32;',
 );
 
