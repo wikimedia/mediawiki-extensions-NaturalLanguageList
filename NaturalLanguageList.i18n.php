@@ -246,6 +246,14 @@ $messages['ja'] = array(
 	'nll-lastseparator' => '&#32;と&#32;',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'nll-desc' => '자연어 목록의 간편한 서식',
+	'nll-lastseparator' => '&#32;그리고&#32;',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
