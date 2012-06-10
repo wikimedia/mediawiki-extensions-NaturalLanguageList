@@ -243,7 +243,7 @@ $messages['it'] = array(
  */
 $messages['ja'] = array(
 	'nll-desc' => '自然言語一覧の簡単な整形',
-	'nll-lastseparator' => '&#32;と&#32;',
+	'nll-lastseparator' => '&#32;および&#32;',
 );
 
 /** Korean (한국어)
