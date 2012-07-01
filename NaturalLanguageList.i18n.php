@@ -55,7 +55,7 @@ $messages['az'] = array(
 	'nll-lastseparator' => '&#32;və&#32;',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Jim-by
  */
 $messages['be-tarask'] = array(
@@ -110,7 +110,7 @@ $messages['de'] = array(
 	'nll-lastseparator' => ' und',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -172,7 +172,7 @@ $messages['frp'] = array(
 	'nll-lastseparator' => '&#32;et&#32;',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -196,7 +196,7 @@ $messages['he'] = array(
 	'nll-lastseparator' => '&#32;ו',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
