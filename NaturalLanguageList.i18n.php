@@ -86,7 +86,7 @@ $messages['bs'] = array(
 	'nll-lastseparator' => '&#32;i&#32;',
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -307,7 +307,7 @@ $messages['nah'] = array(
 	'nll-lastseparator' => '&#32;īhuān&#32;',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
