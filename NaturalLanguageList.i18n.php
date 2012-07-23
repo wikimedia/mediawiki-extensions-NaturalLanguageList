@@ -110,6 +110,14 @@ $messages['de'] = array(
 	'nll-lastseparator' => ' und',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'nll-desc' => 'Listey formatê zıwanan dê gaman',
+	'nll-lastseparator' => '&#32;ew&#32;',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
