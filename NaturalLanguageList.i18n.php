@@ -462,6 +462,7 @@ $messages['te'] = array(
  */
 $messages['tl'] = array(
 	'nll-desc' => 'Madaling pagpopormat ng mga talaan sa likas na mga wika',
+	'nll-separator' => ',&#32;',
 	'nll-lastseparator' => '&#32;at&#32;',
 );
 
