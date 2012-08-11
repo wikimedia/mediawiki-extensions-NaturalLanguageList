@@ -415,6 +415,13 @@ $messages['ru'] = array(
 	'nll-lastseparator' => '&#32;и&#32;',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'nll-lastseparator' => '&#32;සහ&#32;',
+);
+
 /** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Rancher
  */
