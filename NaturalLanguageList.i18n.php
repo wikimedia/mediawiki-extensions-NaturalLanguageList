@@ -254,6 +254,13 @@ $messages['ja'] = array(
 	'nll-lastseparator' => '&#32;および&#32;',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'nll-lastseparator' => '&#32;და&#32;',
+);
+
 /** Korean (한국어)
  * @author 아라
  */
