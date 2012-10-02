@@ -55,7 +55,7 @@ $messages['az'] = array(
 	'nll-lastseparator' => '&#32;və&#32;',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Jim-by
  */
 $messages['be-tarask'] = array(
@@ -277,7 +277,7 @@ $messages['ksh'] = array(
 	'nll-lastseparator' => '&#32;un&#32;',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -322,7 +322,7 @@ $messages['nah'] = array(
 	'nll-lastseparator' => '&#32;īhuān&#32;',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -338,7 +338,7 @@ $messages['nl'] = array(
 	'nll-lastseparator' => '&#32;en&#32;',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Nghtwlkr
  */
 $messages['nn'] = array(
@@ -429,14 +429,14 @@ $messages['si'] = array(
 	'nll-lastseparator' => '&#32;සහ&#32;',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Rancher
  */
 $messages['sr-ec'] = array(
 	'nll-separator' => ',&#32;',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬) */
+/** Serbian (Latin script) (srpski (latinica)‎) */
 $messages['sr-el'] = array(
 	'nll-separator' => ',&#32;',
 );
