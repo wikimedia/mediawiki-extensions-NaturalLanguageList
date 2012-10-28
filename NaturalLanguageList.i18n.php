@@ -22,6 +22,7 @@ $messages['en'] = array (
  */
 $messages['qqq'] = array(
 	'nll-desc' => '{{desc}}',
+	'nll-itemoutput' => '{{notranslate}}',
 	'nll-separator' => '{{Optional}}<br />Please include any necessary spacing: <code>,&amp;#32;</code>',
 	'nll-lastseparator' => '{{Identical/And}}<br />Please include any necessary spacing: <code>&amp;#32;and&amp;#32;</code>',
 );
@@ -112,10 +113,11 @@ $messages['de'] = array(
 
 /** Zazaki (Zazaki)
  * @author Erdemaslancan
+ * @author Mirzali
  */
 $messages['diq'] = array(
 	'nll-desc' => 'Listey formatê zıwanan dê gaman',
-	'nll-lastseparator' => '&#32;ew&#32;',
+	'nll-lastseparator' => '&#32;u&#32;',
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -143,7 +145,8 @@ $messages['es'] = array(
 	'nll-lastseparator' => '&#32;y&#32;',
 );
 
-/** Estonian (eesti) */
+/** Estonian (eesti)
+ */
 $messages['et'] = array(
 	'nll-lastseparator' => '&#32;ning&#32;',
 );
@@ -436,7 +439,8 @@ $messages['sr-ec'] = array(
 	'nll-separator' => ',&#32;',
 );
 
-/** Serbian (Latin script) (srpski (latinica)‎) */
+/** Serbian (Latin script) (srpski (latinica)‎)
+ */
 $messages['sr-el'] = array(
 	'nll-separator' => ',&#32;',
 );
@@ -511,4 +515,3 @@ $messages['yi'] = array(
 $messages['yo'] = array(
 	'nll-lastseparator' => '&#32;àti&#32;',
 );
-
