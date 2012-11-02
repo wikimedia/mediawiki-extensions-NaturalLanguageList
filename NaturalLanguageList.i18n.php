@@ -515,3 +515,11 @@ $messages['yi'] = array(
 $messages['yo'] = array(
 	'nll-lastseparator' => '&#32;àti&#32;',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'nll-desc' => '简单的自然语言的列表格式',
+	'nll-lastseparator' => '&#32;和&#32;',
+);
