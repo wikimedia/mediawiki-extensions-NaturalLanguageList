@@ -18,10 +18,11 @@ $messages['en'] = array (
 
 /** Message documentation (Message documentation)
  * @author Raimond Spekking
+ * @author Shirayuki
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'nll-desc' => '{{desc}}',
+	'nll-desc' => '{{desc|name=Natural Language List|url=http://www.mediawiki.org/wiki/Extension:NaturalLanguageList}}',
 	'nll-itemoutput' => '{{notranslate}}',
 	'nll-separator' => '{{Optional}}<br />Please include any necessary spacing: <code>,&amp;#32;</code>',
 	'nll-lastseparator' => '{{Identical/And}}<br />Please include any necessary spacing: <code>&amp;#32;and&amp;#32;</code>',
