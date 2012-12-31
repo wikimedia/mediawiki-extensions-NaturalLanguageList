@@ -181,6 +181,7 @@ $messages['fr'] = array(
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
+	'nll-desc' => 'Misa en fôrma ésiêye de listes en lengoues naturèles',
 	'nll-lastseparator' => '&#32;et&#32;',
 );
 
