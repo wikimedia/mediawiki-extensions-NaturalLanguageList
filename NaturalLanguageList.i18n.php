@@ -263,6 +263,7 @@ $messages['ja'] = array(
  * @author David1010
  */
 $messages['ka'] = array(
+	'nll-separator' => ',&#32;',
 	'nll-lastseparator' => '&#32;და&#32;',
 );
 
