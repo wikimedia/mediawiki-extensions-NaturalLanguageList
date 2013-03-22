@@ -95,6 +95,14 @@ $messages['ce'] = array(
 	'nll-lastseparator' => '&#32;а&#32;',
 );
 
+/** Czech (česky)
+ * @author Reaperman
+ */
+$messages['cs'] = array(
+	'nll-desc' => 'Snadné formátování seznamů v přirozených jazycích',
+	'nll-lastseparator' => '&#32;a&#32;',
+);
+
 /** Danish (dansk)
  * @author Svip
  */
