@@ -103,6 +103,13 @@ $messages['cs'] = array(
 	'nll-lastseparator' => '&#32;a&#32;',
 );
 
+/** Welsh (Cymraeg)
+ * @author Lloffiwr
+ */
+$messages['cy'] = array(
+	'nll-lastseparator' => '&#32;a/ac&#32;',
+);
+
 /** Danish (dansk)
  * @author Svip
  */
