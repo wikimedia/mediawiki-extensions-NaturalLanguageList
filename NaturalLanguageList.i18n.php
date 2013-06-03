@@ -343,7 +343,7 @@ $messages['nah'] = array(
 	'nll-lastseparator' => '&#32;īhuān&#32;',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -359,7 +359,7 @@ $messages['nl'] = array(
 	'nll-lastseparator' => '&#32;en&#32;',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Nghtwlkr
  */
 $messages['nn'] = array(
