@@ -169,8 +169,10 @@ $messages['et'] = array(
 
 /** Basque (euskara)
  * @author An13sa
+ * @author Theklan
  */
 $messages['eu'] = array(
+	'nll-desc' => 'Hizkuntza naturaletan zerrenden formatu erraza',
 	'nll-lastseparator' => '&#32;eta&#32;',
 );
 
@@ -326,6 +328,13 @@ $messages['ltg'] = array(
 $messages['mk'] = array(
 	'nll-desc' => 'Лесно форматирање на списоци во природни јазици',
 	'nll-lastseparator' => '&#32;и&#32;',
+);
+
+/** Marathi (मराठी)
+ * @author Mahitgar
+ */
+$messages['mr'] = array(
+	'nll-lastseparator' => '&#32;आणि&#32;',
 );
 
 /** Malay (Bahasa Melayu)
