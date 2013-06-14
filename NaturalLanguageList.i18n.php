@@ -550,3 +550,11 @@ $messages['zh-hans'] = array(
 	'nll-desc' => '简单的自然语言的列表格式',
 	'nll-lastseparator' => '&#32;和&#32;',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'nll-desc' => '簡單的自然語言列表格式',
+	'nll-lastseparator' => '&#32;及&#32;',
+);
