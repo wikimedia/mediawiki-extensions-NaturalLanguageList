@@ -383,6 +383,13 @@ $messages['oc'] = array(
 	'nll-lastseparator' => '&#32;e&#32;',
 );
 
+/** Punjabi (ਪੰਜਾਬੀ)
+ * @author Babanwalia
+ */
+$messages['pa'] = array(
+	'nll-lastseparator' => '&#32;ਅਤੇ&#32;',
+);
+
 /** Deitsch (Deitsch)
  * @author Xqt
  */
