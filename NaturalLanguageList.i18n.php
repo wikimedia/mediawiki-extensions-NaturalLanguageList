@@ -23,7 +23,9 @@ $messages['en'] = array (
  */
 $messages['qqq'] = array(
 	'nll-desc' => '{{desc|name=Natural Language List|url=http://www.mediawiki.org/wiki/Extension:NaturalLanguageList}}',
-	'nll-itemoutput' => '{{notranslate}}',
+	'nll-itemoutput' => "{{notranslate}}
+Parameters:
+* $1 - item's pair",
 	'nll-separator' => '{{Optional}}<br />Please include any necessary spacing: <code>,&amp;#32;</code>',
 	'nll-lastseparator' => '{{Identical/And}}<br />Please include any necessary spacing: <code>&amp;#32;and&amp;#32;</code>',
 );
