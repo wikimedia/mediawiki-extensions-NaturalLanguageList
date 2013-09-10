@@ -109,6 +109,7 @@ $messages['cs'] = array(
  * @author Lloffiwr
  */
 $messages['cy'] = array(
+	'nll-desc' => 'Yn fformatio rhestri yn rhwydd mewn amrywiol ieithoedd',
 	'nll-lastseparator' => '&#32;a/ac&#32;',
 );
 
