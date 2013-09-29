@@ -490,10 +490,12 @@ $messages['su'] = array(
 );
 
 /** Swedish (svenska)
+ * @author Jopparn
  * @author Nghtwlkr
  * @author Per
  */
 $messages['sv'] = array(
+	'nll-desc' => 'Enkel formatering av listor i naturliga språk',
 	'nll-lastseparator' => '&#32;och&#32;',
 );
 
