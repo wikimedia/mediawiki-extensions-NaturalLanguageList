@@ -97,7 +97,7 @@ $messages['ce'] = array(
 	'nll-lastseparator' => '&#32;а&#32;',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Reaperman
  */
 $messages['cs'] = array(
