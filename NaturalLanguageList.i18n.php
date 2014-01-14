@@ -179,6 +179,13 @@ $messages['eu'] = array(
 	'nll-lastseparator' => '&#32;eta&#32;',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'nll-lastseparator' => '&#32;anو&#32;',
+);
+
 /** Finnish (suomi)
  * @author Centerlink
  * @author Nike
