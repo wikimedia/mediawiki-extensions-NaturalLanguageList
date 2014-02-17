@@ -183,6 +183,7 @@ $messages['eu'] = array(
  * @author Armin1392
  */
 $messages['fa'] = array(
+	'nll-desc' => 'فرمت کردن آسان فهرست‌ها در زبان‌های طبیعی',
 	'nll-lastseparator' => '&#32;anو&#32;',
 );
 
