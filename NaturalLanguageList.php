@@ -42,10 +42,11 @@ $wgExtensionCredits['parserhook'][] = array(
 	'author'      => array( 'Svip', 'Happy-melon', 'Conrad Irwin' ),
 	'url'         => 'https://www.mediawiki.org/wiki/Extension:NaturalLanguageList',
 	'descriptionmsg' => 'nll-desc',
-	'version'     => '2.5'
+	'version'     => '2.6.0'
 );
 
 $dir = dirname(__FILE__);
+$wgMessagesDirs['NaturalLanguageList'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['NaturalLanguageList'] = "$dir/NaturalLanguageList.i18n.php";
 $wgExtensionMessagesFiles['NaturalLanguageListMagic'] = "$dir/NaturalLanguageList.i18n.magic.php";
 
