@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Rancher"
-        ]
-    },
-    "nll-separator": ",&#32;"
+	"@metadata": {
+		"authors": [
+			"Rancher"
+		]
+	},
+	"nll-separator": ",&#32;"
 }

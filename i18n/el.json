@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Glavkos"
-        ]
-    },
-    "nll-desc": "Εύκολη μορφοποίηση των καταλόγων στις φυσικές γλώσσες",
-    "nll-lastseparator": "&#32;καί&#32;"
+	"@metadata": {
+		"authors": [
+			"Glavkos"
+		]
+	},
+	"nll-desc": "Εύκολη μορφοποίηση των καταλόγων στις φυσικές γλώσσες",
+	"nll-lastseparator": "&#32;καί&#32;"
 }

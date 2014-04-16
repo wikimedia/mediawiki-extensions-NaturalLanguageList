@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Jopparn",
-            "Nghtwlkr",
-            "Per"
-        ]
-    },
-    "nll-desc": "Enkel formatering av listor i naturliga språk",
-    "nll-lastseparator": "&#32;och&#32;"
+	"@metadata": {
+		"authors": [
+			"Jopparn",
+			"Nghtwlkr",
+			"Per"
+		]
+	},
+	"nll-desc": "Enkel formatering av listor i naturliga språk",
+	"nll-lastseparator": "&#32;och&#32;"
 }

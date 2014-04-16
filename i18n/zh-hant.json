@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Justincheng12345"
-        ]
-    },
-    "nll-desc": "簡單的自然語言列表格式",
-    "nll-lastseparator": "&#32;及&#32;"
+	"@metadata": {
+		"authors": [
+			"Justincheng12345"
+		]
+	},
+	"nll-desc": "簡單的自然語言列表格式",
+	"nll-lastseparator": "&#32;及&#32;"
 }

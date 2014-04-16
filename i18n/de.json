@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Kghbln",
-            "LWChris"
-        ]
-    },
-    "nll-desc": "Ermöglicht die einfache Erzeugung von Listen",
-    "nll-lastseparator": " und"
+	"@metadata": {
+		"authors": [
+			"Kghbln",
+			"LWChris"
+		]
+	},
+	"nll-desc": "Ermöglicht die einfache Erzeugung von Listen",
+	"nll-lastseparator": " und"
 }

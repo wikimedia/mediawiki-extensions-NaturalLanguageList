@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Bennylin"
-        ]
-    },
-    "nll-desc": "Daftar dalam bahasa natural yang mudah format",
-    "nll-lastseparator": "&#32;dan&#32;"
+	"@metadata": {
+		"authors": [
+			"Bennylin"
+		]
+	},
+	"nll-desc": "Daftar dalam bahasa natural yang mudah format",
+	"nll-lastseparator": "&#32;dan&#32;"
 }

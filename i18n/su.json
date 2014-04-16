@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Kandar"
-        ]
-    },
-    "nll-lastseparator": "&#32;and&#32;"
+	"@metadata": {
+		"authors": [
+			"Kandar"
+		]
+	},
+	"nll-lastseparator": "&#32;and&#32;"
 }
