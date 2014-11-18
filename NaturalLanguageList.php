@@ -64,17 +64,17 @@ class NaturalLanguageList {
 		$parser->setFunctionHook(
 			'list',
 			array( __CLASS__, 'render' ),
-			SFH_OBJECT_ARGS
+			Parser::SFH_OBJECT_ARGS
 		);
 		$parser->setFunctionHook(
 			'rawlist',
 			array ( __CLASS__, 'renderRaw' ),
-			SFH_OBJECT_ARGS
+			Parser::SFH_OBJECT_ARGS
 		);
 		$parser->setFunctionHook(
 			'rangelist',
 			array ( __CLASS__, 'renderRange' ),
-			SFH_OBJECT_ARGS
+			Parser::SFH_OBJECT_ARGS
 		);
 		return true;
 	}
