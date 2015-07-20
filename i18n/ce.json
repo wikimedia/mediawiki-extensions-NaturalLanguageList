@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sasan700"
+			"Sasan700",
+			"Умар"
 		]
 	},
-	"nll-lastseparator": "&#32;а&#32;"
+	"nll-lastseparator": "&#32;а,&#32;"
 }
