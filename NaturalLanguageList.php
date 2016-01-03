@@ -351,10 +351,10 @@ class NaturalLanguageList {
 		# get default values for lastseparator from outputseparator (if set) or message
 		if ( $this->mOptions['outputseparator'] === null ) {
 
-			$this->mOptions['outputseparator'] = wfMsgNoTrans( 'nll-separator' );
+			$this->mOptions['outputseparator'] = wfMessage( 'nll-separator' )->plain();
 
 			if ( $this->mOptions['lastseparator'] === null ) {
-				$this->mOptions['lastseparator'] = wfMsgNoTrans( 'nll-lastseparator' );
+				$this->mOptions['lastseparator'] = wfMessage( 'nll-lastseparator' )->plain();
 			}
 		# set the last separator to the regular separator if the separator is
 		# set and the last separator isn't set specifically
@@ -364,7 +364,7 @@ class NaturalLanguageList {
 
 		# use the default format if format not set
 		if ( $this->mOptions['itemoutput'] === null ) {
-			$this->mOptions['itemoutput'] = wfMsgNoTrans( 'nll-itemoutput' );
+			$this->mOptions['itemoutput'] = wfMessage( 'nll-itemoutput' )->plain();
 		}
 
 		# don't permit a length larger than the allowed
