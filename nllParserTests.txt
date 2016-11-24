@@ -3,8 +3,6 @@ No items
 !! input
 {{#list:}}
 !! result
-<p>
-</p>
 !! end
 
 !! test
@@ -210,8 +208,6 @@ Rawlist: no items
 !! input
 {{#rawlist:}}
 !! result
-<p>
-</p>
 !! end
 
 !! test
@@ -282,8 +278,6 @@ Rangelist: No items
 !! input
 {{#rangelist:}}
 !! result
-<p>
-</p>
 !! end
 
 !! test
