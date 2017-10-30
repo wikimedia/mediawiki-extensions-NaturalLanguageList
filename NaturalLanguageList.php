@@ -47,7 +47,6 @@ $wgExtensionCredits['parserhook'][] = array(
 
 $dir = dirname(__FILE__);
 $wgMessagesDirs['NaturalLanguageList'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['NaturalLanguageList'] = "$dir/NaturalLanguageList.i18n.php";
 $wgExtensionMessagesFiles['NaturalLanguageListMagic'] = "$dir/NaturalLanguageList.i18n.magic.php";
 
 $wgHooks['ParserFirstCallInit'][] = 'NaturalLanguageList::onParserFirstCallInit';
