@@ -51,7 +51,7 @@ $wgExtensionMessagesFiles['NaturalLanguageListMagic'] = "$dir/NaturalLanguageLis
 
 $wgHooks['ParserFirstCallInit'][] = 'NaturalLanguageList::onParserFirstCallInit';
 
-$wgParserTestFiles[] = dirname( __FILE__ ) . "/nllParserTests.txt";
+$wgParserTestFiles[] = dirname( __FILE__ ) . "/tests/parser/nllParserTests.txt";
 
 /* global variables */
 
