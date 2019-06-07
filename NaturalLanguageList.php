@@ -291,7 +291,7 @@ class NaturalLanguageList {
 		$this->mParams = array_chunk( $items, $this->mOptions['fieldsperitem'] );
 
 		# Disgard any leftovers, hrm...
-		if ( count( end( $this->mParams ) ) != $this->mOptions['fieldsperitem'] ) {
+		if ( $this->mParams !== [] && count( end( $this->mParams ) ) != $this->mOptions['fieldsperitem'] ) {
 			array_pop( $this->mParams );
 		}
 
