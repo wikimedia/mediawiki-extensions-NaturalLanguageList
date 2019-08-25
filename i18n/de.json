@@ -6,5 +6,5 @@
 		]
 	},
 	"nll-desc": "Ermöglicht die einfache Erzeugung von Listen",
-	"nll-lastseparator": " und"
+	"nll-lastseparator": "&#32;und&#32;"
 }

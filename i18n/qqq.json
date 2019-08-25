@@ -4,11 +4,12 @@
 			"Raimond Spekking",
 			"Shirayuki",
 			"Umherirrender",
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"Verdy p"
 		]
 	},
 	"nll-desc": "{{desc|name=Natural Language List|url=https://www.mediawiki.org/wiki/Extension:NaturalLanguageList}}",
 	"nll-itemoutput": "{{notranslate}}\nParameters:\n* $1 - item's pair",
 	"nll-separator": "{{Optional}}<br />Please include any necessary spacing: <code>,&amp;#32;</code>",
-	"nll-lastseparator": "Please include any necessary spacing: <code>&amp;#32;and&amp;#32;</code>\n{{Identical|And}}"
+	"nll-lastseparator": "Please include any necessary spacing as <code>&amp;#32;</code> (for a regular, breakable, space) before and after the translation of <code>and</code>.\n{{Identical|And}}"
 }
