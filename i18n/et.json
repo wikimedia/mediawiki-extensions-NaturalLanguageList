@@ -1,4 +1,6 @@
 {
-	"@metadata": [],
+	"@metadata": {
+		"authors": []
+	},
 	"nll-lastseparator": "&#32;ning&#32;"
 }
