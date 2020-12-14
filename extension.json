@@ -1,0 +1,37 @@
+{
+	"name": "Natural Language List",
+	"version": "2.7.0",
+	"author": [
+		"Svip",
+		"Happy-melon",
+		"Conrad Irwin"
+	],
+	"license-name": "GPL-2.0-or-later",
+	"url": "https://www.mediawiki.org/wiki/Extension:NaturalLanguageList",
+	"descriptionmsg": "nll-desc",
+	"type": "parserhook",
+	"requires": {
+		"MediaWiki": ">= 1.29.0"
+	},
+	"MessagesDirs": {
+		"NaturalLanguageList": [
+			"i18n"
+		]
+	},
+	"ExtensionMessagesFiles": {
+		"NaturalLanguageListMagic": "NaturalLanguageList.i18n.magic.php"
+	},
+	"AutoloadClasses": {
+		"NaturalLanguageList": "src/NaturalLanguageList.php"
+	},
+	"Hooks": {
+		"ParserFirstCallInit": "NaturalLanguageList::onParserFirstCallInit"
+	},
+	"config": {
+		"NllMaxListLength": {
+			"description": "The maximum allowed length of a list.",
+			"value": 1000
+		}
+	},
+	"manifest_version": 2
+}

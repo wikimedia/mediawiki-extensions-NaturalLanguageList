@@ -35,25 +35,17 @@
  * want with the software, whatever the fuck that may be.
  * -----------------------------------------------------------------
  */
-
-$wgExtensionCredits['parserhook'][] = array(
-	'path'        => __FILE__,
-	'name'        => 'Natural Language List',
-	'author'      => array( 'Svip', 'Happy-melon', 'Conrad Irwin' ),
-	'url'         => 'https://www.mediawiki.org/wiki/Extension:NaturalLanguageList',
-	'descriptionmsg' => 'nll-desc',
-	'version'     => '2.6.0'
-);
-
-$dir = dirname(__FILE__);
-$wgMessagesDirs['NaturalLanguageList'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['NaturalLanguageListMagic'] = "$dir/NaturalLanguageList.i18n.magic.php";
-
-$wgAutoloadClasses['NaturalLanguageList'] = "$dir/src/NaturalLanguageList.php";
-$wgHooks['ParserFirstCallInit'][] = 'NaturalLanguageList::onParserFirstCallInit';
-
-$wgParserTestFiles[] = dirname( __FILE__ ) . "/tests/parser/nllParserTests.txt";
-
-/* global variables */
-
-$wgNllMaxListLength = 1000; # the maximum allowed length of a list.
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'NaturalLanguageList' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['NaturalLanguageList'] = __DIR__ . '/i18n';
+	$wgExtensionMessagesFiles['NaturalLanguageListMagic'] = __DIR__ . '/NaturalLanguageList.i18n.magic.php';
+	wfWarn(
+		'Deprecated PHP entry point used for the NaturalLanguageList extension. ' .
+		'Please use wfLoadExtension() instead, ' .
+		'see https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Extension_registration for more details.'
+	);
+	return;
+} else {
+	die( 'This version of the NaturalLanguageList extension requires MediaWiki 1.29+' );
+}
