@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Peter17"
+			"Peter17",
+			"Verdy p"
 		]
 	},
 	"nll-desc": "Mise en forme facile de listes en langages naturels",
+	"nll-separator": ",&#32;",
 	"nll-lastseparator": "&#32;et&#32;"
 }

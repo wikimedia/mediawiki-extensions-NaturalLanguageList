@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Riwnodennyk",
-			"Тест"
+			"Тест",
+			"DDPAT"
 		]
 	},
 	"nll-desc": "Легке форматування списків на природних мовах",
+	"nll-separator": ",&#32;",
 	"nll-lastseparator": "&#32;і&#32;"
 }
