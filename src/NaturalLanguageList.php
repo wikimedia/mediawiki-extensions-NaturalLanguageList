@@ -86,13 +86,13 @@ class NaturalLanguageList {
 	public $mArgs;
 	private $mSeparator = null;
 	private $mOptions = [
-		'fieldsperitem' => -1,     # size of pairs
-		'duplicates' => true,      # allow same elements to appear
-		'blanks' => false,         # allow blank elements to appear
-		'length' => -1,            # length, default no limit
-		'itemoutput' => null,      # the format for each element
+		'fieldsperitem' => -1, # size of pairs
+		'duplicates' => true, # allow same elements to appear
+		'blanks' => false, # allow blank elements to appear
+		'length' => -1, # length, default no limit
+		'itemoutput' => null, # the format for each element
 		'outputseparator' => null, # the separator between output elements
-		'lastseparator' => null,   # the separator between the last two elements
+		'lastseparator' => null, # the separator between the last two elements
 	];
 	private $mReaditems = [];
 	public $mParams = [];
