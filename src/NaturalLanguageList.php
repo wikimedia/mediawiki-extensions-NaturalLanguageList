@@ -97,6 +97,7 @@ class NaturalLanguageList {
 	private $mReaditems = [];
 	public $mParams = [];
 	private $mIgnores = [];
+	private $maxDollar;
 
 	/**
 	 * Constructor
