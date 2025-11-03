@@ -1,4 +1,7 @@
 <?php
+
+use MediaWiki\Parser\MagicWordArray;
+
 class NaturalLanguageList {
 
 	/**
